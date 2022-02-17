@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Пример</title>
-    </head>
-    <body>
-        <p>This is an пример of a simple HTML page with one paragraph.</p>
-    </body>
-</html>
