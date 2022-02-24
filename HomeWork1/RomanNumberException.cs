@@ -1,6 +1,6 @@
 using System;
 
-namespace HomeWork1
+namespace Lab2
 {
     public class RomanNumberException : Exception
     {
