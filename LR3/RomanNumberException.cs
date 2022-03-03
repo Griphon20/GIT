@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-namespace Lab2
+namespace LR3
 {
     public class RomanNumberException : Exception
     {
